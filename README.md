@@ -1,5 +1,5 @@
 ## Olá, eu sou o Victor 👋
-# 👨‍💻 Sobre mim
+# Sobre mim
 
 💻 Desenvolvedor Full Stack  
 🎯 Focado em construir aplicações escaláveis  
