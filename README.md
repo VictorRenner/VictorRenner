@@ -2,7 +2,7 @@
 # Sobre mim
 
 💻 Desenvolvedor Full Stack  
-🎯 Focado em construir aplicações escaláveis  
+🎯 Focado em Automação e Análise de Dados
 📚 Atualmente estudando: Dados
 
 ## 🛠️ Tecnologias
